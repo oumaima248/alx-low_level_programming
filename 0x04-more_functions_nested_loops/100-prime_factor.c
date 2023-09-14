@@ -9,7 +9,7 @@
 int main(void)
 
 {
-	long X,maXf;
+	long X, maXf;
 	long number = 612852475143;
 	double square = sqrt(number);
 
